@@ -16,6 +16,10 @@ role: Ph. D. Student
 organizations:
 - name: Department of Psychology, Cornell University
   url: ""
+- name: Cognitive Neuroscience Lab
+  url: "http://cnl.psych.cornell.edu/"
+- name: Co-Mind Lab
+  url: "https://co-mind.org/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed language, language evolution and computational modeling.
