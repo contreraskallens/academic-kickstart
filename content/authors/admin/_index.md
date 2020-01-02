@@ -15,7 +15,7 @@ role: Ph. D. Student
 # Organizations/Affiliations
 organizations:
 - name: Department of Psychology, Cornell University
-  url: ""
+  url: "https://psychology.cornell.edu/"
 - name: Cognitive Neuroscience Lab
   url: "http://cnl.psych.cornell.edu/"
 - name: Co-Mind Lab
